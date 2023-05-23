@@ -1,16 +1,16 @@
-### Hi there 👋
+### boa vindas ao meu perfil 🤍
 
-<!--
-**jheniffersouto/jheniffersouto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome e jheniffer souto
 
-Here are some ideas to get you started:
+- Estou estudando no alura
+- Estou me desenvolvimento na linguagem JavaScript
+- utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### você entrar em contato comigo 📫
+
+jheniffer.souto@escola.pr.gov.br
+
+
+
+
+![image](https://github.com/jheniffersouto/jheniffersouto/assets/134400666/3bc5ea96-2d42-4c51-8db8-511cbf590da0)
